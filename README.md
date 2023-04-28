@@ -4,4 +4,4 @@ A reddit bot to keep track of number of posts in a subreddit that includes defin
 
 Example: You want to find out how many posts are being posted with the keyword "Drone" in r/Aerospace.
 
-A statistical representation can be created of the following example that will show how many posts are there live.
+We can keep track of how many posts are being posted with those keywords and, after a few passage of time, a descriptive statistical graphs can be generated.
